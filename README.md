@@ -5,10 +5,7 @@
 - 📫 Contact me at j.mwangi@alustudent.com or engjohnthuo@gmail.com
 -  You can also find me on linkedin or medium
 -  Linkedin : www.linkedin.com/in/john-thuo-427210aa
--  Medium : johnthuo
+-  Medium : https://medium.com/@johnthuo
        
 
-<!---
-john-thuo1/john-thuo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
