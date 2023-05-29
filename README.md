@@ -1,6 +1,6 @@
 👋 Hi, I'm John Thuo!
 
-I'm a passionate Back-End Software Engineer using Django with a strong interest in Machine Learning & Aritificial Intelligence.
+I'm a passionate Back-End Software Engineer Student using Django with a strong interest in Machine Learning & Aritificial Intelligence. I am currently studying Computer Science (Undergrad).
 
 My focus lies in leveraging data to drive informed decision-making and constructing comprehensive systems that collect data from diverse industries. My ultimate goal is to create robust and efficient solutions that empower organizations to make data-driven choices.
 Currently, I'm exploring the fascinating realms of Cloud Development, Networking, Artificial Intelligence Systems Programming, and Mobile Development using Flutter. I'm eager to expand my knowledge and keep up with the latest advancements in these fields.
