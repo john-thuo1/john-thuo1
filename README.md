@@ -7,7 +7,7 @@ Currently, I'm exploring the fascinating realms of Cloud Development, Networking
 
 In addition to my technical pursuits, I find solace in the world of poetry. I've created a repository dedicated to my poetic endeavors, which you can explore at [Poetry](https://github.com/john-thuo1/Poetry). Feel free to take a look and share your thoughts!
 
-If you'd like to connect or discuss exciting opportunities, don't hesitate to reach out to me at j.mwangi@alustudent.com, johnmatrixthuo@gmail.com, or engjohnthuo@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
+If you'd like to connect or discuss exciting opportunities, don't hesitate to reach out to me at j.mwangi@alustudent.com or johnmatrixthuo@gmail.com.You can also find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
 
 Let's collaborate, innovate, and create remarkable experiences together!
 
