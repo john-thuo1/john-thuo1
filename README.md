@@ -1,11 +1,12 @@
 👋 Hi, I'm John Thuo!
 
-I'm a passionate Back-End Software Engineer Student using Django with a strong interest in Machine Learning & Aritificial Intelligence. I am currently studying Computer Science (Undergrad).
+My D.S.A. Helper BOT : [dsaAssistant](https://poe.com/dsaAssistant)
+
+I'm a passionate Back-End Software Engineer Student using Django with a strong interest in Artificial Intelligence(Machine Learning and Deep Learning). I am currently studying Computer Science (Undergrad).
 
 My focus lies in leveraging data to drive informed decision-making and constructing comprehensive systems that collect data from diverse industries. My ultimate goal is to create robust and efficient solutions that empower organizations to make data-driven choices.
-Currently, I'm exploring the fascinating realms of Cloud Development, Networking, Artificial Intelligence, & Software Engineering. I'm eager to expand my knowledge and keep up with the latest advancements in these fields.
+Currently, I'm exploring the fascinating realms of Artificial Intelligence & Cloud Development. I'm eager to expand my knowledge and keep up with the latest advancements in these fields.
 
-In addition to my technical pursuits, I find solace in the world of poetry. I've created a repository dedicated to my poetic endeavors, which you can explore at [Poetry](https://github.com/john-thuo1/Poetry). Feel free to take a look and share your thoughts!
 
 If you'd like to connect or discuss exciting opportunities, don't hesitate to reach out to me at j.mwangi@alustudent.com or johnmatrixthuo@gmail.com.You can also find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
 
