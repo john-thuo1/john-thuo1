@@ -8,7 +8,7 @@ My focus lies in leveraging data to drive informed decision-making and construct
 Currently, I'm exploring the fascinating realms of Artificial Intelligence & Cloud Development. I'm eager to expand my knowledge and keep up with the latest advancements in these fields.
 
 
-If you'd like to connect or discuss exciting opportunities, don't hesitate to reach out to me at j.mwangi@alustudent.com or johnmatrixthuo@gmail.com.You can also find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
+If you'd like to connect or discuss exciting opportunities, don't hesitate to reach out to me at j.mwangi@alustudent.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
 
 Let's collaborate, innovate, and create remarkable experiences together!
 
