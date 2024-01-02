@@ -1,7 +1,5 @@
 # 👋 Hi, I'm John Thuo!
 
-My D.S.A. Helper BOT: [dsaAssistant](https://poe.com/dsaAssistant)
-
 I'm an Undergrad CS Student with a strong interest in Artificial Intelligence, Data Engineering, and Backend Python Development. 
 
 ## Skills and Interests
