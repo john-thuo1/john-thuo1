@@ -20,5 +20,3 @@ If you'd like to connect or discuss exciting opportunities,find me on [LinkedIn]
 ## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=john-thuo1)
 
-## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=john-thuo1)
