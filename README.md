@@ -4,6 +4,7 @@ I'm an Undergrad CS Student with a strong interest in Artificial Intelligence, D
 
 ## Skills and Interests
 I focus on leveraging data to drive informed decision-making and constructing comprehensive systems that collect data from diverse industries. My ultimate goal is to create robust and efficient solutions that empower organizations to make data-driven choices.
+Check out some of my [Sample Poems](https://docs.google.com/document/d/1bRqZ1JcTLCGPZ8mE2kqWHdNUo0ufcitm7OVfddiicYA/edit?usp=sharing)
 
 ## Current Learning
 Currently, I'm exploring the fascinating realms of Machine Learning & Data Engineering. 
