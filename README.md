@@ -13,9 +13,6 @@ Currently, I'm exploring the fascinating realms of Machine Learning & Data Engin
 ## Contact Information
 If you'd like to connect or discuss exciting opportunities, find me on [LinkedIn](https://www.linkedin.com/in/john-thuo-427210aa/) or check out my articles on [Medium](https://medium.com/@johnthuo).
 
-## GitHub Stats and Trophies
-| GitHub Stats | GitHub Trophies |
-| --- | --- |
-| ![John Thuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-thuo1&show_icons=true&theme=radical) | ![Trophies](https://github-profile-trophy.vercel.app/?username=john-thuo1) |
+
 
 
