@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Thuo!
 
-I'm an Undergrad CS Student with a strong interest in Artificial Intelligence, Data Engineering, and Backend Python Development. 
+I'm an Undergrad CS Student with a strong interest in Artificial Intelligence, Data Engineering, Networking(not meeting people 😂), and Backend Development. 
 
 ## Skills and Interests
 I focus on leveraging data to drive informed decision-making and constructing comprehensive systems that collect data from diverse industries.<br />
