@@ -1,6 +1,6 @@
-# 👋 Hi, I'm John Thuo!
+# 👋 Hi,
 
-I'm an Undergrad CS Student with a strong interest in Artificial Intelligence(ML), Data Engineering, Networking(not meeting people 😂), IOT, and Backend Dev. 
+I'm an Undergrad CS Student with a strong interest in Artificial Intelligence(ML), Data Engineering, IOT, and Backend Dev. 
 
 ## Current Learning
 Currently, I'm exploring Machine Learning & Data Engineering. 
