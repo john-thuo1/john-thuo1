@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-I'm an Undergrad CS Student with a strong interest in Artificial Intelligence(ML), Data Engineering, IOT, and Backend Dev. 
+I'm an Undergrad CS Student with a strong interest in Artificial Intelligence(Machine Learning & Deep Learning), Data Engineering, & Robotics(IOT).
 
 ## Current Learning
 Currently, I'm exploring Machine Learning & Data Engineering. 
